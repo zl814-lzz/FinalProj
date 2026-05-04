@@ -1,5 +1,7 @@
 # CS 210 Final Project: EV Utility Footprint Analysis
 USING VSCODE
+
+
 This project analyzes the Washington Electric Vehicle Population dataset by electric utility territory. It focuses on EV mix, electric-range patterns, and which utility territories have the highest share of recent model-year EVs.
 
 ## Dataset
