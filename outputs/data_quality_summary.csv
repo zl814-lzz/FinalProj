@@ -1,0 +1,14 @@
+check,value
+raw_rows,276828
+raw_columns,16
+cleaned_rows,276828
+missing_original_electric_utility,15
+standardized_utility_count,78
+missing_model_year,0
+min_model_year,1999
+max_model_year,2026
+missing_electric_range,8
+zero_electric_range_records,175493
+negative_electric_range_records,0
+bev_records,221329
+phev_records,55499
