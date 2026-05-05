@@ -1,5 +1,7 @@
 # CS 210 Final Project: EV Utility Footprint Analysis
 
+USE VSCODE
+
 This project analyzes the Washington Electric Vehicle Population dataset by electric utility territory. It focuses on EV mix, electric-range patterns, and utility territories with the highest share of recent model-year EVs.
 
 ## Dataset
@@ -23,13 +25,13 @@ From the project folder:
 
 ```powershell
 py -m pip install -r requirements.txt
-py src\analyze_ev_utilities.py
+py your address\analyze_ev_utilities.py
 ```
 
 Or with an explicit dataset path and custom output folder:
 
 ```powershell
-py src\analyze_ev_utilities.py --input ".\Electric_Vehicle_Population_Data.csv" --output-dir ".\outputs"
+py Your Adress\analyze_ev_utilities.py --input ".\Electric_Vehicle_Population_Data.csv" --output-dir ".\outputs"
 ```
 
 ## Outputs
